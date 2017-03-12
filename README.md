@@ -1,0 +1,2 @@
+# inline
+inline js webpack
